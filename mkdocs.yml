@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: My Docs
+theme: 
+  name: material
+  custom_dir: overrides
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+- javascripts/extra.js
+  
