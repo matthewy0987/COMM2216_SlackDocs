@@ -32,8 +32,8 @@ This guide assumes the following:
 
 
 2.any label names that might be different for you than it is for  this document will be italicized(usernames, channel names) 
-    
-    example: 
-    Click on your *username*.
+
+example: 
+Click on your *username*.
 
 
