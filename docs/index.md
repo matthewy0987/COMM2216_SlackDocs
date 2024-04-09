@@ -26,9 +26,14 @@ This guide assumes the following:
 ## Typographical Conventions
 
 1.button labels are all bold
+
     example: 
-    click on the <b>New Message</b> button
+    click on the <b>New Message</b> button.
+
+
 2.any label names that might be different for you than it is for  this document will be italicized(usernames, channel names) 
+    
     example: 
+    Click on your *username*.
 
 
