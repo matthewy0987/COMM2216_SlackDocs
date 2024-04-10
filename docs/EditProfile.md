@@ -3,7 +3,6 @@ Slack provides a quick and easy way to inform others on how to pronounce your na
 
 In this section you will provide both a text and audio guide to pronouncing you name inside your profile.
 ## Steps to Access Your Profile and Add Your Pronunciation
-To add anything you your profile, you will first need to know how to access it. These steps outline how to do so.
 
 1. Click your profile picture labeled with your *username* on the bottom left.
 <figure markdown="span">

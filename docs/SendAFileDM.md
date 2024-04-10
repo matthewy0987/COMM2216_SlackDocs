@@ -96,7 +96,7 @@ In this section you will create a new direct message (DM) and send a file to one
 By the end of this section, you will have completed and learnt how to:
 
 - Access the direct message panel
-- start a direct message with a specifec user
+- start a direct message with a specifec user 
 - send a file
 
 Congratulations! 🎉 You can now send your colleagues files in the same place you communicate with them. Click the link below to learn how to mark messages unread and set a reminder for them:
