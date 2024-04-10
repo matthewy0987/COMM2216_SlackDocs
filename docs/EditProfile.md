@@ -104,7 +104,10 @@ To add anything you your profile, you will first need to know how to access it. 
 </figure>
 !!! success
     If all steps have been followed, there will be **play name pronunciation** button to the right of your *username* abd the text guide under.
+<pre>
 
+
+</pre>
 ## Conclusion
 By the end of this section, you will have successfully completed and learnt how to:
 
