@@ -3,7 +3,14 @@ site_name: Slack Docs
 theme: 
   name: material
   custom_dir: overrides
+  icon:
+    admonition:
+      <type>: <icon>
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
 - javascripts/extra.js
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
