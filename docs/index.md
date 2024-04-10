@@ -1,27 +1,28 @@
 # Introduction
-Welcome! 👋 This document will guide you through the use of  three slack function/features on the website version of slack. Slack is a communication platform usually used in businesses to exchange messages and files to individuals or to a group. Slack also supports voice and video calls.(adononation) The aim is to provide a step by step guide with visual aid(pictures? keep simple mayhaps?)  to complete tasks that give insight on these features.
+Welcome! 👋 This document will guide you through the use of three slack function/features on the website version of slack. Slack is a communication platform usually used in businesses to exchange messages and files to individuals or to a group. Slack also supports voice and video calls. The aim is to provide a step by step guide with pictures to complete tasks that give insight on these features.
 
 ## Intended users
 This user guide is targeted towards:
 
 * users with no experience with slack 
-* day 1 CST student
-* no programming experience 
+* student using Slack for school
+* no higher technical expereince`*`
 
 ## Prerequisites
 This guide assumes the following:
 
-* users know how to use the file explorer
-* is using windows
-* has a slack account
-* in a server
-* comfortable navigating websites
-* using google chrome
-* has a way to record audio (microphone, webcam with microphone) 
+* Users know how to use the file explorer.
+* Users are using windows.
+* Users have a slack account.
+* Users are in a Slack workspace.
+* Users are comfortable navigating websites`*`
+* Users are using google chrome.
+* Users have access to a microphone. 
 
 ## Technology requirements
 * has a browser available
 * access to internet
+* using the website version of slack
 
 ## Typographical Conventions
 

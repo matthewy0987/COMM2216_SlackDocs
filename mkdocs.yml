@@ -2,9 +2,9 @@
 site_name: Slack Docs
 nav:
   - Home: "index.md"
-  - Add Pronunciation: "EditProfile.md"
-  - Send a File in DM: "SendAFileDM.md"
-  - Mark Unread and Set Reminder: "MarkUnread.md"
+  - How to Add Your Name's Pronunciation to your Profile: "EditProfile.md"
+  - How to Send a File Through Direct Message(DM): "SendAFileDM.md"
+  - How to Mark a Message Unread and Set a Reminder: "MarkUnread.md"
   - Trouble Shooting: "trouble.md"
   - Glossary: "glossary.md"
 theme: 
