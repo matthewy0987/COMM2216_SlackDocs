@@ -25,15 +25,21 @@ This guide assumes the following:
 
 ## Typographical Conventions
 
-1.button labels are all bold
+1. button labels are all bold
 
+!!! note ""
     example: 
     click on the <b>New Message</b> button.
 
 
-2.any label names that might be different for you than it is for  this document will be italicized(usernames, channel names) 
+2. any label names that might be different for you than it is for  this document will be italicized(usernames, channel names) 
+!!! note ""
+    example: 
+    Click on your *username*.
 
-example: 
-Click on your *username*.
+3. Keyboard shortcuts will be denoted by a change in font colour to <span style="color:green">green</span>. The notation will list the key neccesary to press and "+" to indicate additional keys needed to be pressed at the same time.
+!!! note ""
+    example:
+    You can use the keyboard shorcut <span style="color:green">Cntrl + Z</span> to undo.
 
 
