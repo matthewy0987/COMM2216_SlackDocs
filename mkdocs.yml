@@ -1,5 +1,12 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Slack Docs
+nav:
+  - Home: "index.md"
+  - Add Pronunciation: "EditProfile.md"
+  - Send a File in DM: "SendAFileDM.md"
+  - Mark Unread and Set Reminder: "MarkUnread.md"
+  - Trouble Shooting: "trouble.md"
+  - Glossary: "glossary.md"
 theme: 
   name: material
   custom_dir: overrides
