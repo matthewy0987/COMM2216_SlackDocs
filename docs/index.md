@@ -8,7 +8,7 @@ This user guide is targeted towards:
 * day 1 CST student
 * no programming experience 
 
-## Prerequisite
+## Prerequisites
 This guide assumes the following:
 
 * users know how to use the file explorer
