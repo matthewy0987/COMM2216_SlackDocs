@@ -7,10 +7,7 @@ In this section you will reset the unread marker and set a reminder for a messag
 
 
 1. Navigate to message you want to mark unread
-<pre>
 
-
-</pre>
 2. Hover over the message with your mouse
 !!! success
     If steps have been followed correctly, then a popup menu should be visible
@@ -18,19 +15,14 @@ In this section you will reset the unread marker and set a reminder for a messag
         ![The New Message icon highlighted with a red square](../images/task3_step2.png){ loading=lazy align=left width="400"}
     <figcaption> The New Message icon highlighted with a red square</figcaption>
     </figure>
-<pre>
 
-
-</pre>
 3. Click on the three vertical dots button labeled **more actions**
- <figure markdown="span">
+
+<figure markdown="span">
     ![The more actions button highlighted with a red square](/images/task3_step3.png){ loading=lazy align=left width="400"}
     <figcaption> The more actions button highlighted with a red square</figcaption>
-    </figure>
-<pre>
+</figure>
 
-
-</pre>
 4. Click on "**Mark Unread**" option on popup menu
 <figure markdown="span">
     ![The Mark Unread option highlighted with a red square](/images/task3_step4.png){ loading=lazy align=left width="400"}
@@ -40,24 +32,15 @@ In this section you will reset the unread marker and set a reminder for a messag
 !!! note
     At this point you have succesfully marked the message as Unread. Then next steps details setting the reminder.
     
-<pre>
 
-
-</pre>
 5. Repeat step 2 and 3
-<pre>
 
-
-</pre>
 6. Click on "**Remind Me About This**" 
 <figure markdown="span">
     ![The Remind Me About This option highlighted with a red square](../images/task3_step6.png){ loading=lazy align=left width="400"}
     <figcaption> The Remind Me About This option highlighted with a red square</figcaption>
 </figure>
-<pre>
 
-
-</pre>
 7. Select a preset time interval or custom from the popup menu
 <figure markdown="span">
     ![The Remind Me About This option highlighted with a red square](../images/task3_step6.png){ loading=lazy align=left width="400"}
@@ -66,10 +49,7 @@ In this section you will reset the unread marker and set a reminder for a messag
 
 !!! note
     If you selected a preset time interval then you have complted setting a reminder. The next steps details setting a custom time/
-<pre>
 
-
-</pre>
 8. Select Date for reminder
 <figure markdown="span">
     ![The date drop down menu highlighted with a red square](../images/task3_step8.png){ loading=lazy align=left width="400"}
@@ -93,10 +73,7 @@ In this section you will reset the unread marker and set a reminder for a messag
     ![The time menu highlighted with a red square](../images/task3_step8.3.png){ loading=lazy align=left width="400"}
     <figcaption> The time menu highlighted with a red square</figcaption>
 </figure>
-<pre>
 
-
-</pre>
 9. Click on the **Save** button
 <figure markdown="span">
     ![The save button highlighted with a red square](../images/task3_8.4.png){ loading=lazy align=left width="400"}
