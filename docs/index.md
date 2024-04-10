@@ -42,12 +42,12 @@ This guide assumes the following:
     example:
     You can use the keyboard shorcut <span style="color:green">Ctrl + Z</span> to undo.
 
-4. Throughout this documentation, coloured blocks are use as admonitions. These colours are ordered here in importance and have the following meanings:
+4. Throughout this documentation, coloured blocks are used as admonitions. These colours are ordered here in importance and have the following meanings:
 !!! warning
     Specifies content that must be read before proceding
-!!! note
-    Specifies extra informatino that the user may find useful but is not necessary
 !!! success
     Specifies the success state at a given moment
+!!! note
+    Specifies extra informatino that the user may find useful but is not necessary
 
 
