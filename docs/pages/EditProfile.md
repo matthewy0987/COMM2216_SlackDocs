@@ -1,6 +1,8 @@
 # How to Edit Your Profile
 ## Overview
-Slack provides a quick and eazy way to inform others on how to pronounce your name. Accomadate others and provide a guide by taking advantage of this tool.
+Slack provides a quick and easy way to inform others on how to pronounce your name. Accomadate others and provide a guide by taking advantage of this tool.
+
+In this section you will provide both a text and audio guide to pronouncing you name inside your profile.
 
 1. Click your profile picture labeled with your *username* on the bottom left.
 <figure markdown="span">
