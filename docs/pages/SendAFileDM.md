@@ -5,6 +5,10 @@ As a student, when working on a group project, you may be required to share file
 In this section you will create a new direct message (DM) and send a file to one of your colleagues.
 
 1. Click on the **DMs** (direct message) button on the left side navigation bar.
+<figure markdown="span">
+    ![The DMs button in the left naviagiton bar](/images/task1_step1.png){ loading=lazy align=left width="600"}
+  <figcaption>The DMs button shown with a red square in the left naviagiton bar</figcaption>
+</figure>
 
 2. Click on the **New Message** icon
 !!! success

@@ -27,3 +27,4 @@ markdown_extensions:
   - pymdownx.superfences
   - sane_lists
   - attr_list
+  - md_in_html
