@@ -14,7 +14,7 @@ In this section you will provide both a text and audio guide to pronouncing you 
 
 2. Click on the **Profile** button on the popup menu
 <figure markdown="span">
-    ![The Profile button highlighted with a red square](../images/task2_step2.png){ loading=lazy align=left width="600"}
+    ![The Profile button highlighted with a red square](../images/task2_step2.png){ loading=lazy align=left width="400"}
   <figcaption>The Profile button highlighted with a red square</figcaption>
 </figure>
 !!! success
@@ -22,7 +22,7 @@ In this section you will provide both a text and audio guide to pronouncing you 
 
 3. Click on the **Edit** button 
 <figure markdown="span">
-    ![The Edit button highlighted with a red square](../images/task2_step3.png){ loading=lazy align=left width="600"}
+    ![The Edit button highlighted with a red square](../images/task2_step3.png){ loading=lazy align=left width="400"}
   <figcaption>The Edit button highlighted with a red square</figcaption>
 </figure>
 !!! success
@@ -32,13 +32,13 @@ In this section you will provide both a text and audio guide to pronouncing you 
 
 4. Add text to textbox labeled **name pronunciation**
 <figure markdown="span">
-    ![The name pronunciation textbox highlighted with a red square](../images/task2_step4.png){ loading=lazy align=left width="600"}
+    ![The name pronunciation textbox highlighted with a red square](../images/task2_step4.png){ loading=lazy align=left width="400"}
   <figcaption>The name pronunciation textbox highlighted with a red square</figcaption>
 </figure>
 
 5. Click on **record Audio Clip** button
 <figure markdown="span">
-    ![The record Audio Clip button highlighted with a red square](../images/task2_step5.png){ loading=lazy align=left width="600"}
+    ![The record Audio Clip button highlighted with a red square](../images/task2_step5.png){ loading=lazy align=left width="400"}
   <figcaption>The record Audio Clip button highlighted with a red square</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ In this section you will provide both a text and audio guide to pronouncing you 
 
 6. Click on **allow this time**
 <figure markdown="span">
-    ![The allow button in the popup highlighted with a red square](../images/task2_step6.png){ loading=lazy align=left width="600"}
+    ![The allow button in the popup highlighted with a red square](../images/task2_step6.png){ loading=lazy align=left width="400"}
   <figcaption>The allow button in the popup highlighted with a red square</figcaption>
 </figure>
 !!! note
@@ -62,19 +62,19 @@ In this section you will provide both a text and audio guide to pronouncing you 
 
 8. Click on the blue **play** button to check your recording
 <figure markdown="span">
-    ![The play button highlighted with a red square](../images/task2_step8.png){ loading=lazy align=left width="600"}
+    ![The play button highlighted with a red square](../images/task2_step8.png){ loading=lazy align=left width="400"}
   <figcaption>The play button highlighted with a red square</figcaption>
 </figure>
 !!! note
     If you are unsatitsfied with your recording, then click the **Remove Audio Clip** button to delete the recording and repeat step 5 and 7.
     <figure markdown="span">
-    ![The allow button in the popup highlighted with a red square](../images/task2_step8.1.png){ loading=lazy align=left width="600"}
+    ![The allow button in the popup highlighted with a red square](../images/task2_step8.1.png){ loading=lazy align=left width="400"}
     <figcaption>The allow button in the popup highlighted with a red square</figcaption>
     </figure>
 
 9. Click on the **Save Changes** button
 <figure markdown="span">
-    ![The save changes button highlighted with a red square](../images/task2_step9.png){ loading=lazy align=left width="600"}
+    ![The save changes button highlighted with a red square](../images/task2_step9.png){ loading=lazy align=left width="400"}
   <figcaption>The save changes button highlighted with a red square</figcaption>
 </figure>
 !!! success

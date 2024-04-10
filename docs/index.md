@@ -40,6 +40,14 @@ This guide assumes the following:
 3. Keyboard shortcuts will be denoted by a change in font colour to <span style="color:green">green</span>. The notation will list the key neccesary to press and "+" to indicate additional keys needed to be pressed at the same time.
 !!! note ""
     example:
-    You can use the keyboard shorcut <span style="color:green">Cntrl + Z</span> to undo.
+    You can use the keyboard shorcut <span style="color:green">Ctrl + Z</span> to undo.
+
+4. Throughout this documentation, coloured blocks are use as admonitions. These colours are ordered here in importance and have the following meanings:
+!!! warning
+    Specifies content that must be read before proceding
+!!! note
+    Specifies extra informatino that the user may find useful but is not necessary
+!!! success
+    Specifies the success state at a given moment
 
 
