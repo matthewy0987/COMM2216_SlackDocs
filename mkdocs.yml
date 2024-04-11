@@ -5,7 +5,7 @@ nav:
   - How to Add Your Name's Pronunciation to your Profile: "EditProfile.md"
   - How to Send a File Through Direct Message(DM): "SendAFileDM.md"
   - How to Mark a Message Unread and Set a Reminder: "MarkUnread.md"
-  - Trouble Shooting: "trouble.md"
+  - Troubleshooting: "trouble.md"
   - Glossary: "glossary.md"
 theme: 
   name: material
