@@ -1,13 +1,13 @@
 # How to Add Your Name's Pronunciation to Your Profile
-Slack provides a quick and easy way to inform others on how to pronounce your name. Accomadate others and provide a guide by taking advantage of this tool.
+Slack provides a quick and easy way to inform others on how to pronounce your name. Accommodate others and provide a guide to pronouncing your name by using this feature.
 
-In this section you will provide both a text and audio guide to pronouncing you name inside your profile.
-## Steps to Access Your Profile and Add Your Pronunciation
+In this section you will provide a text and audio guide to pronouncing your name inside your profile.
+## Steps to Access Your Profile and Add Your Name Pronunciation
 
 1. Click your profile picture labeled with your *username* on the bottom left.
 <figure markdown="span">
-    ![The New Message icon highlighted with a red square](../images/task2_step1.png){ loading=lazy  width="200"}
-    <figcaption>The New Message icon highlighted with a red square</figcaption>
+    ![The Profile icon highlighted with a red square](../images/task1_step1.png){ loading=lazy  width="400"}
+    <figcaption>The Profile icon highlighted with a red square</figcaption>
 </figure>
 !!! success
     If steps have been followed correctly, then a popup menu will appear
