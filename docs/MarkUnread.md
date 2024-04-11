@@ -86,6 +86,6 @@ By the end of this section, you will have completed and learnt how to:
 - Mark a message as unread.
 - Set a reminder for a message.
 
-Congratulations! 🎉 You can now read a message and maintain the unread mark and notification. Click the link below to learn how to trouble shoot issues you may face in completing this task or any of the others:
+Congratulations! 🎉 You can now read a message and maintain the unread mark and notification. Click the link below to learn how to troubleshoot issues you may face in completing this task or any of the others:
 
 **[Troubleshooting](trouble.md)**
