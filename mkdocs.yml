@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: Slack Docs
+site_name: Slack Docs test
 nav:
   - Home: "index.md"
   - How to Add Your Name's Pronunciation to your Profile: "EditProfile.md"
