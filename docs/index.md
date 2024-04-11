@@ -5,51 +5,49 @@ Welcome! 👋 This document will guide you through the use of three functions/fe
 ## Intended users
 This user guide is targeted towards:
 
-* users with no experience with slack 
-* student using Slack for school
-* no higher technical expereince`*`
+* Users who have not used Slack. 
+* Users who are familiar with basic features of a computer.
+* Students who intend to use Slack for school.
 
 ## Prerequisites
 This guide assumes the following:
 
-* Users know how to use the file explorer.
-* Users are using windows.
+* Users know how to use File Explorere in Microsoft Windows.
 * Users have a slack account.
 * Users are in a Slack workspace.
-* Users are comfortable navigating websites`*`
-* Users are using google chrome.
-* Users have access to a microphone. 
+* Users are comfortable with using Google Chrome
 
 ## Technology requirements
-* has a browser available
-* access to internet
-* using the website version of slack
+
+* Users are on google chrome.
+* Users have access to a microphone. 
+* Users have access to the web browser version of Slack.
 
 ## Typographical Conventions
 
-1. Button labels are all bold
+1. Button labels are all bold.
 
 !!! note ""
     example: 
     click on the <b>New Message</b> button.
 
 
-2. any label names that might be different for you than it is for  this document will be italicized(usernames, channel names) 
+2. Any label names that may be different for you will be italicized(usernames, channel names).
 !!! note ""
     example: 
     Click on your *username*.
 
-3. Keyboard shortcuts will be denoted by a change in font colour to <span style="color:green">green</span>. The notation will list the key neccesary to press and "+" to indicate additional keys needed to be pressed at the same time.
+3. Keyboard shortcuts will be styled in <span style="color:green">green</span> font colour.
 !!! note ""
     example:
     You can use the keyboard shorcut <span style="color:green">Ctrl + Z</span> to undo.
 
-4. Throughout this documentation, coloured blocks are used as admonitions. These colours are ordered here in importance and have the following meanings:
+4. Throughout this documentation, coloured blocks are used as admonitions. These colours are ordered here by importance and have the following meanings:
 !!! warning
-    Specifies content that must be read before proceding
+    Specifies content that must be read before proceding.
 !!! success
-    Specifies the success state at a given moment
+    Specifies the success state of a task.
 !!! note
-    Specifies extra informatino that the user may find useful but is not necessary
+    Specifies extra information that may be useful.
 
 
