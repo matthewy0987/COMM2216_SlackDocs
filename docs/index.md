@@ -14,13 +14,14 @@ This guide assumes the following:
 
 * Users know how to use File Explorere in Microsoft Windows.
 * Users know how to read and perform keyboard shortcuts.
-* Users have a slack account.
+* Users have a Slack account.
 * Users are in a Slack workspace.
 * Users are comfortable with using Google Chrome
 
 ## Technology requirements
 
-* Users are on google chrome.
+* Users are on Microsoft Windows 10 or later.
+* Users are on Google Chrome.
 * Users have access to a microphone. 
 * Users have access to the web browser version of Slack.
 
