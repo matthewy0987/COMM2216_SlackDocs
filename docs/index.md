@@ -1,5 +1,5 @@
 # Introduction
-Welcome! 👋 This document will guide you through the use of three functions/features on the web browser version of Slack. Slack is a communication platform used by many businesses and organizations, it is most commonly used to exchange messages and files with groups or a individual. Additionally, Slack also supports voice and video calls. The purpose of this document is to provide a detailed step by step guide to adding pronunciation to your profile page, attaching files to a direct message(DM), and marking messages as unread and setting a reminder.
+Welcome! 👋 This document will guide you through the use of three functions/features on the web browser version of Slack. Slack is a communication platform used by many businesses and organizations, it is most commonly used to exchange messages and files. Additionally, Slack also supports voice and video calls. The purpose of this document is to provide a detailed step by step guide to adding pronunciation to your profile page, attaching files to a direct message(DM), and marking messages as unread and setting a reminder.
 
 
 ## Intended users
@@ -13,6 +13,7 @@ This user guide is targeted towards:
 This guide assumes the following:
 
 * Users know how to use File Explorere in Microsoft Windows.
+* Users know how to read and perform keyboard shortcuts.
 * Users have a slack account.
 * Users are in a Slack workspace.
 * Users are comfortable with using Google Chrome
