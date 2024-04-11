@@ -1,5 +1,5 @@
 # Introduction
-Welcome! 👋 This document will guide you through the use of three functions/features on Slack's web browser version. Slack is a communication platform usually used in businesses to exchange messages and files with individuals or with a group. Slack also supports voice and video calls. The purpose of this document is to provide a step by step guide, with pictures, that will help you complete and learn the following functions/features:
+Welcome! 👋 This document will guide you through the use of three functions/features on the web browser version of Slack. Slack is a communication platform used by many businesses and organizations, it is most commonly used to exchange messages and files with groups or a individual. Additionally, Slack also supports voice and video calls. The purpose of this document is to provide a detailed step by step guide to adding pronunciation to your profile page, attaching files to a direct message(DM), and marking messages as unread and setting a reminder.
 
 
 ## Intended users
