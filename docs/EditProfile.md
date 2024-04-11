@@ -12,17 +12,17 @@ In this section you will provide a text and audio guide to pronouncing your name
 !!! success
     If steps have been followed correctly, then a popup menu will appear
 
-2. Click on the **Profile** button on the popup menu
+2. Click on the **Profile** button on the popup menu.
 <figure markdown="span">
-    ![The Profile button highlighted with a red square](../images/task2_step2.png){ loading=lazy width="200"}
+    ![The Profile button highlighted with a red square](../images/task1_step2.png){ loading=lazy width="400"}
   <figcaption>The Profile button highlighted with a red square</figcaption>
 </figure>
 !!! success
     If steps have been followed correctly, then a right side panel labeled "**Profile**" should be visible
 
-3. Click on the **Edit** button 
+3. Click on the **Edit** button in the **Profile** page.
 <figure markdown="span">
-    ![The Edit button highlighted with a red square](../images/task2_step3.png){ loading=lazy width="400"}
+    ![The Edit button highlighted with a red square](../images/task1_step3.png){ loading=lazy width="400"}
   <figcaption>The Edit button highlighted with a red square</figcaption>
 </figure>
 !!! success
@@ -30,62 +30,66 @@ In this section you will provide a text and audio guide to pronouncing your name
 !!! note
     You can also click the **+Add name pronounciation** to quickly add a text based pronunciation guide
 
-4. Add text to textbox labeled **name pronunciation**
+4. Add text to textbox labeled **name pronunciation**.
 <figure markdown="span">
-    ![The name pronunciation textbox highlighted with a red square](../images/task2_step4.png){ loading=lazy width="400"}
+    ![The name pronunciation textbox highlighted with a red square](../images/task1_step4.png){ loading=lazy width="400"}
   <figcaption>The name pronunciation textbox highlighted with a red square</figcaption>
 </figure>
 
-5. Click on **record Audio Clip** button
+5. Click on **Record Audio Clip** button.
 <figure markdown="span">
-    ![The record Audio Clip button highlighted with a red square](../images/task2_step5.png){ loading=lazy  width="400"}
-  <figcaption>The record Audio Clip button highlighted with a red square</figcaption>
+    ![The record Audio Clip button highlighted with a red square](../images/task1_step5.png){ loading=lazy  width="400"}
+  <figcaption>The Record Audio Clip button highlighted with a red square</figcaption>
 </figure>
 
 !!! note
     If slack already has permission to use your microphone then you can skip step 6
 
 !!! warning 
-    you must allow slack to use your microphone to complete this task. If you select **Never Allow**,**block**, or the **X** that will close the popup and trouble shooting will be necessary. 
+    you must allow slack to use your microphone to complete this task. If you select **Never Allow**, **Block**, or the **X** that will close the popup, please navigate to the **[Troubleshooting Page](trouble.md)**. 
 
-6. Click on **allow this time**
+6. Click on **Allow**.
 <figure markdown="span">
-    ![The allow button in the popup highlighted with a red square](../images/task2_step6.png){ loading=lazy  width="400"}
-  <figcaption>The allow button in the popup highlighted with a red square</figcaption>
+    ![The Allow button in the popup highlighted with a red square](../images/task1_step6.png){ loading=lazy  width="400"}
+  <figcaption>The Allow button in the popup highlighted with a red square</figcaption>
 </figure>
 !!! note
     your popup dialog buttons may be labeled differently depending on your version of Google Chrome. Avoid clicking on the one that is most similar to a denial
 
-7. Say your name into your microphone
+7. Say your name into your microphone.
 !!! success
-    If steps have been followed correctly, then wavefroms will appear where the **record Audio Clip** button was previously
+    If steps have been followed correctly, then wavefroms will appear where the **Record Audio Clip** button was previously
 
-8. Click on the blue **play** button to check your recording
+8. Click on the blue **play** button to listen to your recording.
 <figure markdown="span">
-    ![The play button highlighted with a red square](../images/task2_step8.png){ loading=lazy  width="400"}
+    ![The play button highlighted with a red square](../images/task1_step8.png){ loading=lazy  width="400"}
   <figcaption>The play button highlighted with a red square</figcaption>
 </figure>
 !!! note
-    If you are unsatitsfied with your recording, then click the **Remove Audio Clip** button to delete the recording and repeat step 5 and 7.
+    if you are unsatitsfied with your recording, click the **Remove audio clip** button to delete the recording and repeat steps 5 and 7
     <figure markdown="span">
-    ![The allow button in the popup highlighted with a red square](../images/task2_step8.1.png){ loading=lazy  width="400"}
-    <figcaption>The allow button in the popup highlighted with a red square</figcaption>
+    ![The remove audio clip button highlighted with a red square](../images/task1_step8_Note.png){ loading=lazy  width="400"}
+    <figcaption>The remove audio clip button highlighted with a red square</figcaption>
     </figure>
 
-9. Click on the **Save Changes** button
+9. Click on the **Save Changes** button.
 <figure markdown="span">
-    ![The save changes button highlighted with a red square](../images/task2_step9.png){ loading=lazy  width="400"}
+    ![The save changes button highlighted with a red square](../images/task1_step9.png){ loading=lazy  width="400"}
   <figcaption>The save changes button highlighted with a red square</figcaption>
 </figure>
 !!! success
-    If all steps have been followed, there will be **play name pronunciation** button to the right of your *username* abd the text guide under.
+    if all steps have been followed, there will be **play name pronunciation** button to the right of your *username* and the text guide under.
+    <figure markdown="span">
+    ![The play name pronunciation button and text guide highlighted with red squares](../images/task1_step9_success.png){ loading=lazy  width="400"}
+    <figcaption>The play name pronunciation button and text guide highlighted with red squares</figcaption>
+    </figure>
 
 ## Conclusion
 By the end of this section, you will have successfully completed and learnt how to:
 
-- add a text guide to pronounce your name to you profile
-- add an audio guide to pronounce your name to your profile
+- Add a text guide to pronounce your name to you profile.
+- Add a audio guide to pronounce your name to your profile.
 
-Congratulations! 🎉 Your colleagues will now have the means to learn how to pronounce your name. Click the link below to learn how to send a file through a DM:
+Congratulations! 🎉 Your colleagues can now learn how to pronounce your name. Click the link below to learn how to send a file through a DM:
 
 **[Send a File using DM](SendAFileDM.md)**
