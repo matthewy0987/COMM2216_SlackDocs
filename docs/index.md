@@ -1,5 +1,6 @@
 # Introduction
-Welcome! 👋 This document will guide you through the use of three slack function/features on the website version of slack. Slack is a communication platform usually used in businesses to exchange messages and files to individuals or to a group. Slack also supports voice and video calls. The aim is to provide a step by step guide with pictures to complete tasks that give insight on these features.
+Welcome! 👋 This document will guide you through the use of three functions/features on Slack's web browser version. Slack is a communication platform usually used in businesses to exchange messages and files with individuals or with a group. Slack also supports voice and video calls. The purpose of this document is to provide a step by step guide, with pictures, that will help you complete and learn the following functions/features:
+
 
 ## Intended users
 This user guide is targeted towards:
@@ -26,7 +27,7 @@ This guide assumes the following:
 
 ## Typographical Conventions
 
-1. button labels are all bold
+1. Button labels are all bold
 
 !!! note ""
     example: 
